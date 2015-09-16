@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖佛母般若波羅蜜多九頌精義論
+#+DATE: 2015-08-30 19:44:14.479087
+#+PROPERTY: JUAN 0
