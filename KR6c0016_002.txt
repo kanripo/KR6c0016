@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:14.259097
+#+DATE: 2015-08-30 19:44:14.970459
 #+TITLE: 聖佛母般若波羅蜜多九頌精義論
 #+PROPERTY: CBETA_ID T25n1516
 #+PROPERTY: ID KR6c0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1516
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6c0016_T_002-0899b> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《聖佛母般若波羅蜜多九頌精義¶
+《聖佛母般若波羅蜜多九頌精義¶
 論》卷下¶
 ¶
 勝德赤衣菩薩造¶
